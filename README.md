@@ -10,6 +10,7 @@ A case study challenge conducted by Astronomy Club (<a href="https://github.com/
 
 ```
 - The details of the challenge can be found in the Documents folder
+- The data to be used for analysis can be found in the Data folder
 ```
 
 ## Team Members
